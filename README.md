@@ -11,18 +11,18 @@
 </h1>
 
 # About
-#### A project that I developed during December of 2019 as I wanted to practice what I learnt and needed a stopwatch.
+### A project that I developed during December of 2019 as I wanted to practice what I learnt and needed a stopwatch.
 ---
 
-## Features
-This project was developed with:
+# Features
+### This project was developed with:
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-## Getting started
+# Getting started
 ```bash
 
 # Clone this repository using
