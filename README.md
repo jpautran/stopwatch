@@ -11,7 +11,7 @@
 </h1>
 
 # About
-A project that I developed during December of 2019 as I wanted to practice what I learnt and needed a stopwatch.
+#### A project that I developed during December of 2019 as I wanted to practice what I learnt and needed a stopwatch.
 ---
 
 ## Features
